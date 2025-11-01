@@ -1,3 +1,1 @@
-This project demonstrates basic Git branching and merging.
-
 City : None
